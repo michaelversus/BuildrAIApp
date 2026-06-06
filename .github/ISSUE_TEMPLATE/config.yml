@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Privacy policy
+    url: https://buildrai.app/buildrai/privacy
+    about: Review BuildrAI privacy guidance before posting sensitive issue details.
