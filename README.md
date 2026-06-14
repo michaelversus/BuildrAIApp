@@ -2,7 +2,7 @@
 
 Stop guessing. Benchmark your AI workflow.
 
-[![Download on the Mac App Store](assets/mac-app-store-badge.svg)](https://apps.apple.com/gr/app/buildrai/id6763734335?mt=12)
+[![Mac App Store](assets/download_mac_app_store.svg)](https://apps.apple.com/gr/app/buildrai/id6763734335?mt=12)
 
 BuildrAI is a local-first macOS app for reviewing, evaluating, and sharing AI coding agent sessions. It turns local agent artifacts into a readable workspace for timelines, prompt quality, tool usage, token usage, context pressure, project activity, and share-ready reports.
 
